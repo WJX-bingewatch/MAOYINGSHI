@@ -6,88 +6,88 @@
                 "name": "🟢 豆瓣👁️‍",
                 "type": 3,
                 "indexs": 1,
-                "api": "./douban_open.js"
+                "api": "douban_open.js"
             },
             {
                 "key": "doubanbb",
                 "name": "🟢 片单",
                 "type": 3,
                 "indexs": 1,
-                "api": "./doubanbb.js"
+                "api": "doubanbb.js"
             },
             {
                 "key": "玩偶哥哥",
                 "name": "🟢 玩偶",
                 "type": 3,
-                "api": "./wogg_open.js",
+                "api": "wogg_open.js",
                 "ext": "a58f8672a9c6435d9a517f8bc77b1ac7"
             },
             {
                 "key": "玩偶表哥",
                 "name": "🟢 表哥",
                 "type": 3,
-                "api": "./wobg_open.js",
+                "api": "wobg_open.js",
                 "ext": "a58f8672a9c6435d9a517f8bc77b1ac7"
             },
             {
                 "key": "耐看",
                 "name": "🟢 耐看",
                 "type": 3,
-                "api": "./nkvod_open.js"
+                "api": "nkvod_open.js"
             },
             {
                 "key": "爱看机器人",
                 "name": "🟢 爱看",
                 "type": 3,
-                "api": "./ikanbot_open.js"
+                "api": "ikanbot_open.js"
             },
             {
                 "key": "tiantian",
                 "name": "🟢 天天",
                 "type": 3,
-                "api": "./tiantian_open.js"
+                "api": "tiantian_open.js"
             },
             {
                 "key": "快看影视",
                 "name": "🟢 快看",
                 "type": 3,
-                "api": "./kkys_open.js"
+                "api": "kkys_open.js"
             },
             {
                 "key": "厂长资源",
                 "name": "🟢 厂长",
                 "type": 3,
-                "api": "./czzy_open.js"
+                "api": "czzy_open.js"
             },
             {
                 "key": "素白白",
                 "name": "🟢 素白",
                 "type": 3,
-                "api": "./subaibai_open.js"
+                "api": "subaibai_open.js"
             },
             {
                 "key": "低端影视",
                 "name": "🟢 低端",
                 "type": 3,
-                "api": "./ddys_open.js"
+                "api": "ddys_open.js"
             },
             {
                 "key": "高光影视",
                 "name": "🟢 高光",
                 "type": 3,
-                "api": "./ggys_open.js"
+                "api": "ggys_open.js"
             },
             {
                 "key": "libvio",
                 "name": "🟢 立波",
                 "type": 3,
-                "api": "./libvio_open.js"
+                "api": "libvio_open.js"
             },
             {
                 "key": "电视直播",
                 "name": "🟢 电视",
                 "type": 3,
-                "api": "./caiji.js",
+                "api": "caiji.js",
                 "ext": "https://tvbox.serv00.net/live.php"
             },
             {
